@@ -4,7 +4,7 @@
 
 I'm an iOS Developer who love [protocols](https://speakerdeck.com/riteshhh/thinking-in-swift). I write/encourage/talk about protocol oriented programming a lot and almost to everyone. I have been working with swift for almost 2 years now and have made over 10 apps completely in swift. Other than coding you can find me [tweeting](https://twitter.com/_riteshhh) about iOS/swift/protocols/swift-evolution! 
 
-I have learned a lot from the Swift community via blogs, conferences, videos etc  and thus I also like to give back to the comunnity via:
+I have learned a lot from the Swift community via blogs, conferences, videos etc  and thus I also like to give back to the community as well via:
 
 - [medium](https://medium.com/@_riteshhh) - this is where I share my swifty thoughts
 - [swift-snippets](https://medium.com/swift-snippets) - its a medium publication managed by me where I post really cool snippets around extensions, protocols, generics etc
