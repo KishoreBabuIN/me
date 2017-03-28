@@ -4,7 +4,7 @@
 
 **iOS Developer** who wishes to compose everything with [protocols](https://speakerdeck.com/riteshhh/thinking-in-swift). I write/encourage/talk about protocol oriented programming a lot and almost to everyone (even if they ask me not too). 
 
-In the weekdays I power iOS apps of [Fueled](https://fueled.com). I have been working with swift for almost 2 years now and have made over 10 apps completely in swift. 
+In weekdays I power [Fueled](https://fueled.com) iOS apps. I have been working with swift for almost 2 years now and have made over 10 apps completely in swift. 
 
 Other than coding you can find me [tweeting](https://twitter.com/_riteshhh) about iOS/swift/protocols/swift-evolution or my exploration with Indian fusion cuisines on [Instagram](https://www.instagram.com/riteshguptaa/)! Checkout the new season of [Samurai Jack](http://www.adultswim.com/videos/samurai-jack/) now & thank me later!
 
