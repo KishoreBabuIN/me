@@ -10,6 +10,7 @@ Other than coding you can find me [tweeting](https://twitter.com/_riteshhh) abou
 
 I have learned a lot from the Swift community via blogs, conferences, videos etc  and thus I also like to give back to the community as well via:
 
+- [newsletter](https://iosdevweekly.com/issues/295#start) - I authored a guest post in [iOS dev weekly](https://iosdevweekly.com)'s 295th issue, one of the most pretigious iOS newsletters managed by [Dave Verwer](https://twitter.com/daveverwer)
 - [medium](https://medium.com/@_riteshhh) - this is where I share my swifty thoughts
 - [swift-snippets](https://medium.com/swift-snippets) - its a medium publication managed by me where I post really cool snippets around extensions, protocols, generics etc
 - [open-source](https://github.com/riteshhgupta?tab=repositories) - I enjoy coding & abstracting resuable components in iOS/Swift and convert them into pods for easy integration. One of my popular libraries is `TagCellLayout` which has over 20K downloads & powering around 150+ apps on appstore.
